@@ -1,0 +1,8 @@
+{
+  "name": "Government Partnership (Tele-MANAS)",
+  "description": "A secure healthcare platform for Tele-MANAS government referrals, featuring automated intake, clinical outcome tracking, and quarterly compliance reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
